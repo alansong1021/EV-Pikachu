@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">EV Pikachu</string>
+
+    <string name="ev_info_guide">EV Current Status (%)</string>
+    <string name="start_button">Start Charging</string>
+    <string name="stop_button">Stop</string>
+
+    <string name="ev_info_guide2">Date / Time</string>
+    <string name="add_schedule">Add Schedule</string>
+    <string name="del_schedule">X</string>
+
+
+    <string name="current_status"> % km </string>
+    <string name="goal_distance">Goal Distance</string>
+    <string name="time_remained">Time Remained</string>
+
+    <string name="km">km</string>
+    <string name="mile">mi</string>
+
+</resources>
